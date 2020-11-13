@@ -1,1 +1,2 @@
 # Header.h
+#pragma once
